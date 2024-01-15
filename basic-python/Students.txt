@@ -1,3 +1,0 @@
-Pedro : 8
-Maria : 10
-Amilton : 7.5
